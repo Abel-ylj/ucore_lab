@@ -103,4 +103,5 @@ Module.symvers
 Mkfile.old
 dkms.conf
 
+obj/*
 
