@@ -1,5 +1,9 @@
 /cmake-build-debug/
 /CMakeLists.txt
+
+*.cproject
+*.project 
+
 ### C++ template
 # Prerequisites
 *.d
